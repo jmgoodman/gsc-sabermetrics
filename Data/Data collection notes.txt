@@ -1,0 +1,7 @@
+Everything from WCOP XI (mid-2016) onward are included. In other words, the "Showdown era".
+
+SPL VII (beginning of 2016) saved many of its battles as PO replays, which are no longer accessible. Some matches toward the end were saved as Showdown replays, but I decided not to cherry-pick matches from this tournament based on whether I could access the battle data.
+Many matches during this tournament (and pretty much all of them prior to this tournament) were saved as pastebins of PO logs. I didn't feel like writing two data scrapers for different log formats, so I arbitrarily set the cutoff for when Showdown logs & replays were the dominant form of match saving.
+Besides, this is actually a reasonable place to stop going back in time. Before this is an era where Jynx & Golem proliferation had yet to occur, where Borat's team was still kind of the cutting edge, and where I was still actively playing this damn game.
+As much as I'd love to compare players of different eras against each other, the differences in dominant strategies of these eras would require some adjustments, and I'm just getting started, yo. It's probably ill-advised to think about how to adjust for different eras when just getting started with figuring out the basics: for example, which metrics are worthwhile and which are absolute junk?
+Plus, as aforementioned, it's just an awful lot of extra work.
