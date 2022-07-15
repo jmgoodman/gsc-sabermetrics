@@ -173,4 +173,3 @@ winrate_mat    = np.divide(wincount_matrix, totalmatch_mat)
 # none of them rise above even the most liberal thresholds of statistical significance (the ones that don't bother to correct for multiple comparisons)
 # turns out, trying to attribute wins & losses to just one factor such as this is a very silly endeavor!
 # probably want to build a multivariate logistic regression model... and report statistically significant predictors of THAT, which accounts for the confounding factors of other variables!
-# (just assume a linear model there - FUCK interactions!)
